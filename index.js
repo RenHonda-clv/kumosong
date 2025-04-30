@@ -366,7 +366,7 @@ const InternalConfig = function (initConfig) { // eslint-disable-line no-unused-
 		 * @type {boolean}
 		 * @default
 		 */
-		experimentalVK: false,
+		experimentalVK: true,
 		/**
 		 * The progressive web app service worker to install.
 		 * @memberof EngineConfig
